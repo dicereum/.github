@@ -12,4 +12,4 @@ At the moment Dicereum is a four-man crew and lore development is basically happ
 
 All content is licensed under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** unless stated otherwise. This means you can remix and share, as long as you give credit and you share the content under these same conditions. See the individual repos for code licensing.
 
-“The mind that thought of light, heavy, grey, yellow, still, swift, also conceived of magic that would make heavy things light and be able to fly, turn grey lead into yellow gold, and the still rock into a swift water.” 
+*“The mind that thought of light, heavy, grey, yellow, still, swift, also conceived of magic that would make heavy things light and be able to fly, turn grey lead into yellow gold, and the still rock into a swift water.”*
